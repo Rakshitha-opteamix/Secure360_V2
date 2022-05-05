@@ -1,0 +1,15 @@
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\bin\Debug\net6.0\Opteamix.AuthorizationFramework.Data.deps.json
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\bin\Debug\net6.0\Opteamix.AuthorizationFramework.Data.dll
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\bin\Debug\net6.0\Opteamix.AuthorizationFramework.Data.pdb
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\bin\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.dll
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\bin\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.pdb
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\obj\Debug\net6.0\Opteamix.AuthorizationFramework.Data.csproj.AssemblyReference.cache
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\obj\Debug\net6.0\Opteamix.AuthorizationFramework.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\obj\Debug\net6.0\Opteamix.AuthorizationFramework.Data.AssemblyInfoInputs.cache
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\obj\Debug\net6.0\Opteamix.AuthorizationFramework.Data.AssemblyInfo.cs
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\obj\Debug\net6.0\Opteamix.AuthorizationFramework.Data.csproj.CoreCompileInputs.cache
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\obj\Debug\net6.0\Opteamix.AuthorizationFramework.Data.csproj.CopyComplete
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\obj\Debug\net6.0\Opteamix.AuthorizationFramework.Data.dll
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\obj\Debug\net6.0\refint\Opteamix.AuthorizationFramework.Data.dll
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\obj\Debug\net6.0\Opteamix.AuthorizationFramework.Data.pdb
+D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.Data\obj\Debug\net6.0\ref\Opteamix.AuthorizationFramework.Data.dll

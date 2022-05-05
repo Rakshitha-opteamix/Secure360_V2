@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K5SpMSagPcG73CaRtY9KcTD0MEydcNFcMm3QKxPLFKM=",
+  "Source": "Opteamix.AuthorizationFramework.Api",
+  "BasePath": "_content/Opteamix.AuthorizationFramework.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
