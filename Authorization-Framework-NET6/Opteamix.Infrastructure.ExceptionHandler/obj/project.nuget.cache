@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2vAm5LIkmuHF0jWmSqjr3ehJm8JJ8Vi8nsFB9/UhVRRF/mWrh6PRRUA4fgNe5gxqk3SWxZa/C8OtIcBYfblFbA==",
+  "dgSpecHash": "TEEGaE7D/7hboD7WrkMj64OpW9m4V2nF8G4DLX8v98q4EM4yz2ITBzsRwP9nDZl4gAOHR+v5WYN6JBb/bJbzaA==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionHandler\\Opteamix.Infrastructure.ExceptionHandler.csproj",
+  "projectFilePath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionHandler\\Opteamix.Infrastructure.ExceptionHandler.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

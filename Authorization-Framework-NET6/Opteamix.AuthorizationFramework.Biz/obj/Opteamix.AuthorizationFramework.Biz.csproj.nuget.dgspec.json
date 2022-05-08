@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj": {}
+    "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj": {
+    "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj",
+        "projectUniqueName": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj",
         "projectName": "Opteamix.AuthorizationFramework.Biz",
-        "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj",
+        "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj",
         "packagesPath": "C:\\Users\\bjithin\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\obj\\",
+        "outputPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bjithin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Data\\Opteamix.AuthorizationFramework.Data.csproj": {
-                "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Data\\Opteamix.AuthorizationFramework.Data.csproj"
+              "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Data\\Opteamix.AuthorizationFramework.Data.csproj": {
+                "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Data\\Opteamix.AuthorizationFramework.Data.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Data\\Opteamix.AuthorizationFramework.Data.csproj": {
+    "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Data\\Opteamix.AuthorizationFramework.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Data\\Opteamix.AuthorizationFramework.Data.csproj",
+        "projectUniqueName": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Data\\Opteamix.AuthorizationFramework.Data.csproj",
         "projectName": "Opteamix.AuthorizationFramework.Data",
-        "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Data\\Opteamix.AuthorizationFramework.Data.csproj",
+        "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Data\\Opteamix.AuthorizationFramework.Data.csproj",
         "packagesPath": "C:\\Users\\bjithin\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Data\\obj\\",
+        "outputPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bjithin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,8 +86,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj": {
-                "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj"
+              "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj": {
+                "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj"
               }
             }
           }
@@ -126,14 +126,14 @@
         }
       }
     },
-    "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj": {
+    "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj",
+        "projectUniqueName": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj",
         "projectName": "Opteamix.AuthorizationFramework.LogService",
-        "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj",
+        "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj",
         "packagesPath": "C:\\Users\\bjithin\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\obj\\",
+        "outputPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bjithin\\AppData\\Roaming\\NuGet\\NuGet.Config",

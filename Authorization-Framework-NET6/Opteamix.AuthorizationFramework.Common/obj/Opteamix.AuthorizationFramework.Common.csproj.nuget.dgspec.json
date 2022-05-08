@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Common\\Opteamix.AuthorizationFramework.Common.csproj": {}
+    "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Common\\Opteamix.AuthorizationFramework.Common.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Common\\Opteamix.AuthorizationFramework.Common.csproj": {
+    "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Common\\Opteamix.AuthorizationFramework.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Common\\Opteamix.AuthorizationFramework.Common.csproj",
+        "projectUniqueName": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Common\\Opteamix.AuthorizationFramework.Common.csproj",
         "projectName": "Opteamix.AuthorizationFramework.Common",
-        "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Common\\Opteamix.AuthorizationFramework.Common.csproj",
+        "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Common\\Opteamix.AuthorizationFramework.Common.csproj",
         "packagesPath": "C:\\Users\\bjithin\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Common\\obj\\",
+        "outputPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bjithin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gnHdtk7eakShB6t6e/Va+4f/u8On8m24cMqQfFgTCzQz7q0cNjz3YfUTXiML66t34ClyUsWObcvWXDUQEpJvbA==",
+  "dgSpecHash": "McGozCP28bqvaO4EoJCkytEUi+6W9RRIfNq/CC9zA8ds6nZAYzloXohqRRfOB0VLA2z+35TT3nUQWWhKulWORQ==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Api\\Opteamix.AuthorizationFramework.Api.csproj",
+  "projectFilePath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Api\\Opteamix.AuthorizationFramework.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bjithin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bjithin\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.4\\microsoft.aspnetcore.jsonpatch.6.0.4.nupkg.sha512",

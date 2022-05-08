@@ -11,41 +11,41 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Opteamix.AuthorizationFramework.BlazorApp
 build_property.RootNamespace = Opteamix.AuthorizationFramework.BlazorApp
-build_property.ProjectDir = D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.BlazorApp\
+build_property.ProjectDir = D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.BlazorApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.BlazorApp
+build_property.MSBuildProjectDirectory = D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.BlazorApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Documents/Secure 360/Autorization-framework-NET6/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/App.razor]
+[D:/Documents/Secure-360-Revamp/Secure360_V2/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Secure 360/Autorization-framework-NET6/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/Pages/Counter.razor]
+[D:/Documents/Secure-360-Revamp/Secure360_V2/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Secure 360/Autorization-framework-NET6/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/Pages/FetchData.razor]
+[D:/Documents/Secure-360-Revamp/Secure360_V2/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Secure 360/Autorization-framework-NET6/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/Pages/Index.razor]
+[D:/Documents/Secure-360-Revamp/Secure360_V2/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Secure 360/Autorization-framework-NET6/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/Shared/SurveyPrompt.razor]
+[D:/Documents/Secure-360-Revamp/Secure360_V2/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Secure 360/Autorization-framework-NET6/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/_Imports.razor]
+[D:/Documents/Secure-360-Revamp/Secure360_V2/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Secure 360/Autorization-framework-NET6/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/Shared/MainLayout.razor]
+[D:/Documents/Secure-360-Revamp/Secure360_V2/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-12jim76yg0
 
-[D:/Documents/Secure 360/Autorization-framework-NET6/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/Shared/NavMenu.razor]
+[D:/Documents/Secure-360-Revamp/Secure360_V2/Authorization-Framework-NET6/Opteamix.AuthorizationFramework.BlazorApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-5fso39epw9

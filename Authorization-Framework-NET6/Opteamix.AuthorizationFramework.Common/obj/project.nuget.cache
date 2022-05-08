@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aat+wD47LSMJoVt5FDH7kqhEyWuSrq2V1aeNRLIJEQA60peZmz+4zLZl++Uwe4/EH//PA7Qz7zmIszi+l6PCFQ==",
+  "dgSpecHash": "vIXk7fXi14Q6C47SSlnkvb27PZ19vPMAvmT8mqlxOjvYMj139Wu49k6OjG1yv0ph+0TcF0xfn/hXelnB8dQqtw==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Common\\Opteamix.AuthorizationFramework.Common.csproj",
+  "projectFilePath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Common\\Opteamix.AuthorizationFramework.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

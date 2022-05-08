@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uB0ZPo5mluQkuiJgpqq4UuOfRSW1HCXbPLvlmDzlmvLwGCLQ/pk70bzWEV4jp0rOcFxntmZcG00uMRZa2pEUMQ==",
+  "dgSpecHash": "kmHcxONug575ombwbgffKZpowXR5IW48xiJArbHMtYa2VHkzuK6FdYKc8vusuwGMk96+waJ7On2ptEFmNPyAwA==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.BlazorApp\\Opteamix.AuthorizationFramework.BlazorApp.csproj",
+  "projectFilePath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.BlazorApp\\Opteamix.AuthorizationFramework.BlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bjithin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.4\\microsoft.aspnetcore.authorization.6.0.4.nupkg.sha512",
     "C:\\Users\\bjithin\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.4\\microsoft.aspnetcore.components.6.0.4.nupkg.sha512",

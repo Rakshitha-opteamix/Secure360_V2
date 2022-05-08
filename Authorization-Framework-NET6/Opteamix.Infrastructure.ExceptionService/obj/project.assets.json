@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionService\\Opteamix.Infrastructure.ExceptionService.csproj",
+      "projectUniqueName": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionService\\Opteamix.Infrastructure.ExceptionService.csproj",
       "projectName": "Opteamix.Infrastructure.ExceptionService",
-      "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionService\\Opteamix.Infrastructure.ExceptionService.csproj",
+      "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionService\\Opteamix.Infrastructure.ExceptionService.csproj",
       "packagesPath": "C:\\Users\\bjithin\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionService\\obj\\",
+      "outputPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bjithin\\AppData\\Roaming\\NuGet\\NuGet.Config",

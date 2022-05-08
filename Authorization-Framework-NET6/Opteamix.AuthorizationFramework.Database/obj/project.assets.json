@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Database\\Opteamix.AuthorizationFramework.Database.csproj",
+      "projectUniqueName": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Database\\Opteamix.AuthorizationFramework.Database.csproj",
       "projectName": "Opteamix.AuthorizationFramework.Database",
-      "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Database\\Opteamix.AuthorizationFramework.Database.csproj",
+      "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Database\\Opteamix.AuthorizationFramework.Database.csproj",
       "packagesPath": "C:\\Users\\bjithin\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Database\\obj\\",
+      "outputPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bjithin\\AppData\\Roaming\\NuGet\\NuGet.Config",

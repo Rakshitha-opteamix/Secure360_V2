@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionHandler\\Opteamix.Infrastructure.ExceptionHandler.csproj": {}
+    "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionHandler\\Opteamix.Infrastructure.ExceptionHandler.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionHandler\\Opteamix.Infrastructure.ExceptionHandler.csproj": {
+    "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionHandler\\Opteamix.Infrastructure.ExceptionHandler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionHandler\\Opteamix.Infrastructure.ExceptionHandler.csproj",
+        "projectUniqueName": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionHandler\\Opteamix.Infrastructure.ExceptionHandler.csproj",
         "projectName": "Opteamix.Infrastructure.ExceptionHandler",
-        "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionHandler\\Opteamix.Infrastructure.ExceptionHandler.csproj",
+        "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionHandler\\Opteamix.Infrastructure.ExceptionHandler.csproj",
         "packagesPath": "C:\\Users\\bjithin\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionHandler\\obj\\",
+        "outputPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.Infrastructure.ExceptionHandler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bjithin\\AppData\\Roaming\\NuGet\\NuGet.Config",

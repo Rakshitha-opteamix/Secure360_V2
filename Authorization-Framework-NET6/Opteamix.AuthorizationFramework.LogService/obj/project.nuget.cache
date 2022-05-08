@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "80W/+0TlF7DYT01QlQNcm2VIYlXxzINapzfkNgKvpvUaOQJk1KyQHWw7bCJAqFvCguEPNz/J7ViTgrEa5RkeSQ==",
+  "dgSpecHash": "htcHkXu9YW0kU6E1DLoh8pgwfWgj38Jv0T549PJz1Ihk+7TY98U8tRXa11Mb7gPrKUcmIUDRdoQKBoki0j6HnQ==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj",
+  "projectFilePath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bjithin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\bjithin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",

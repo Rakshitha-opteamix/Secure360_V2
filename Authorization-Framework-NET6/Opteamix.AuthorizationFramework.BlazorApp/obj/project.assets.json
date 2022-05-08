@@ -1551,11 +1551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.BlazorApp\\Opteamix.AuthorizationFramework.BlazorApp.csproj",
+      "projectUniqueName": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.BlazorApp\\Opteamix.AuthorizationFramework.BlazorApp.csproj",
       "projectName": "Opteamix.AuthorizationFramework.BlazorApp",
-      "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.BlazorApp\\Opteamix.AuthorizationFramework.BlazorApp.csproj",
+      "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.BlazorApp\\Opteamix.AuthorizationFramework.BlazorApp.csproj",
       "packagesPath": "C:\\Users\\bjithin\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.BlazorApp\\obj\\",
+      "outputPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.BlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bjithin\\AppData\\Roaming\\NuGet\\NuGet.Config",

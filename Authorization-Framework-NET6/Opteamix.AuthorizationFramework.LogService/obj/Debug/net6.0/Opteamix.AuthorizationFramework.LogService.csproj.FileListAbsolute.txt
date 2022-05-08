@@ -10,3 +10,15 @@ D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6
 D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\obj\Debug\net6.0\refint\Opteamix.AuthorizationFramework.LogService.dll
 D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\obj\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.pdb
 D:\Documents\Secure 360\Autorization-framework-NET6\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\obj\Debug\net6.0\ref\Opteamix.AuthorizationFramework.LogService.dll
+D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\bin\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.deps.json
+D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\bin\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.dll
+D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\bin\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.pdb
+D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\obj\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.csproj.AssemblyReference.cache
+D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\obj\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\obj\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.AssemblyInfoInputs.cache
+D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\obj\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.AssemblyInfo.cs
+D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\obj\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.csproj.CoreCompileInputs.cache
+D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\obj\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.dll
+D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\obj\Debug\net6.0\refint\Opteamix.AuthorizationFramework.LogService.dll
+D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\obj\Debug\net6.0\Opteamix.AuthorizationFramework.LogService.pdb
+D:\Documents\Secure-360-Revamp\Secure360_V2\Authorization-Framework-NET6\Opteamix.AuthorizationFramework.LogService\obj\Debug\net6.0\ref\Opteamix.AuthorizationFramework.LogService.dll

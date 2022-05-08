@@ -1352,11 +1352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Api\\Opteamix.AuthorizationFramework.Api.csproj",
+      "projectUniqueName": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Api\\Opteamix.AuthorizationFramework.Api.csproj",
       "projectName": "Opteamix.AuthorizationFramework.Api",
-      "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Api\\Opteamix.AuthorizationFramework.Api.csproj",
+      "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Api\\Opteamix.AuthorizationFramework.Api.csproj",
       "packagesPath": "C:\\Users\\bjithin\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Api\\obj\\",
+      "outputPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bjithin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1373,8 +1373,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj": {
-              "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj"
+            "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj": {
+              "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj"
             }
           }
         }

@@ -366,11 +366,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj",
+      "projectUniqueName": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj",
       "projectName": "Opteamix.AuthorizationFramework.LogService",
-      "projectPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj",
+      "projectPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\Opteamix.AuthorizationFramework.LogService.csproj",
       "packagesPath": "C:\\Users\\bjithin\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\obj\\",
+      "outputPath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.LogService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bjithin\\AppData\\Roaming\\NuGet\\NuGet.Config",

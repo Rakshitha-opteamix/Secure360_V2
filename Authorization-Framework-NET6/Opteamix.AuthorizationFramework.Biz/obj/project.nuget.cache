@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2YahSf+nh0LBQp5IhJIVBRGIxp+jNs1vSQMWJSJZWM5PK2gmhcHjpKg0bc5+Zp8MybsZBp2Qx4iMlr8V9sbGow==",
+  "dgSpecHash": "HtdAzHKmUGhPBXw0tGS3HQMsUG9ELNeMRoQK6tKddYHkcdFUFBCejlyC9iL6eczKreOqMKd+GqDXPikHIXE4qw==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Secure 360\\Autorization-framework-NET6\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj",
+  "projectFilePath": "D:\\Documents\\Secure-360-Revamp\\Secure360_V2\\Authorization-Framework-NET6\\Opteamix.AuthorizationFramework.Biz\\Opteamix.AuthorizationFramework.Biz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bjithin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
     "C:\\Users\\bjithin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.4\\microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",
